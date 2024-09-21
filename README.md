@@ -6,4 +6,4 @@ Add new tasks to the list
 Mark tasks as completed
 Remove tasks from the list
 User-friendly and responsive interface
-Demo
+
